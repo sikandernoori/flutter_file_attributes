@@ -12,6 +12,7 @@ var fileAttributes = await _flutterFileAttributesPlugin.getFileAttriburtes(fileP
 ## Available attributes
 
 IOS: https://developer.apple.com/documentation/foundation/fileattributekey
+
 Android: TODO(skandar)
 
 
